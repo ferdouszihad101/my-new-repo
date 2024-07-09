@@ -1,0 +1,9 @@
+body {
+  padding: 100px 20px;
+}
+h1 {
+  font-size: 64px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
